@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T20:47:31.693Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="RZmSSsQtAQF9rHR_cKCq" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T20:48:25.419Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="dSo-PVWkeQJoo_b9Nkfy" version="15.2.7" type="github">
   <diagram id="-j4W8ajl_okpw4RgpCke" name="Page-1">
     <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
             <mxPoint x="340" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bjb8TFt1GVLLZXTYinY1-60" value="This represents the Many to Many relationship&lt;br&gt;Using two different letter to denote that&lt;br&gt;the quantities are not equal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="bjb8TFt1GVLLZXTYinY1-60" value="This represents the Many to Many relationship&lt;br&gt;Using two different letter to denote that&lt;br&gt;the quantities are not necessarily equal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="370" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bjb8TFt1GVLLZXTYinY1-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bjb8TFt1GVLLZXTYinY1-61" target="bjb8TFt1GVLLZXTYinY1-2">
