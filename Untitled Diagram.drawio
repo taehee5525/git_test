@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T20:45:53.413Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="h5A1shM15PPqDDgIFFqZ" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T20:47:31.693Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="RZmSSsQtAQF9rHR_cKCq" version="15.2.7" type="github">
   <diagram id="-j4W8ajl_okpw4RgpCke" name="Page-1">
     <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
         <mxCell id="bjb8TFt1GVLLZXTYinY1-18" value="Assigned" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="140" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bjb8TFt1GVLLZXTYinY1-21" value="DON&#39;T JAM RELATIONSHIPS TOGETHER&lt;br&gt;It is nothing abnormal that there are relationships more than 2&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bjb8TFt1GVLLZXTYinY1-21" value="DON&#39;T JAM RELATIONSHIPS TOGETHER&lt;br&gt;It is nothing abnormal that there are relationships more than 2&lt;br&gt;connected to entity&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="440" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bjb8TFt1GVLLZXTYinY1-22" value="The drawing can be vague, but it is normal.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
