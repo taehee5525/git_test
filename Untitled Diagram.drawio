@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T20:42:28.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="JQW2_e8nnq42HqrBwTK5" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T20:45:53.413Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="h5A1shM15PPqDDgIFFqZ" version="15.2.7" type="github">
   <diagram id="-j4W8ajl_okpw4RgpCke" name="Page-1">
     <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bjb8TFt1GVLLZXTYinY1-65" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="100" y="290" width="140" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="bjb8TFt1GVLLZXTYinY1-58" value="" style="endArrow=classic;html=1;entryX=-0.15;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bjb8TFt1GVLLZXTYinY1-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="370" as="sourcePoint" />
@@ -31,7 +34,7 @@
         <mxCell id="bjb8TFt1GVLLZXTYinY1-2" value="Derpartments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bjb8TFt1GVLLZXTYinY1-3" value="Dependent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bjb8TFt1GVLLZXTYinY1-3" value="Dependent" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="110" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bjb8TFt1GVLLZXTYinY1-4" value="Project" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -127,7 +130,7 @@
         <mxCell id="bjb8TFt1GVLLZXTYinY1-41" value="&lt;b&gt;There&#39;s no special way to show that &quot;department&quot; is controlled by &quot;employee&quot; and vice versa.&lt;br&gt;(In this diagram, I, personally, added the arrow to represent the relationship, but usually, there is no arrow in the diagram&lt;br&gt;In the real diagram, we ASSUME what we need. Therefore, in this case, we say that the employees are controlled by departments.&amp;nbsp;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="25" y="500" width="750" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bjb8TFt1GVLLZXTYinY1-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bjb8TFt1GVLLZXTYinY1-42" target="bjb8TFt1GVLLZXTYinY1-3">
+        <mxCell id="bjb8TFt1GVLLZXTYinY1-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bjb8TFt1GVLLZXTYinY1-42" target="bjb8TFt1GVLLZXTYinY1-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bjb8TFt1GVLLZXTYinY1-42" value="Sponsor" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
